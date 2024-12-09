@@ -1,5 +1,21 @@
 [
     {
+        "name": "[癒しの唄]アサコアーグ",
+        "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
+        "rarity": "★★★",
+        "attribute": "技",
+        "affiliation": "第6特殊消防隊",
+        "role": "蘇生, 酸素回復, 体力回復"
+    },
+    {
+        "name": "[灰焰騎士団長]象日下部",
+        "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
+        "rarity": "★6",
+        "attribute": "悪",
+        "affiliation": "伝導者一派",
+        "role": "出血, 体力回復"
+    },
+    {
         "name": "[秋の野営地]武久火縄",
         "url": "https://fireforce-game.blogspot.com/p/blog-page_13.html",
         "rarity": "★★★",
